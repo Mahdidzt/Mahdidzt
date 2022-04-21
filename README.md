@@ -1,4 +1,4 @@
-I'm a Front End developer with 3-4 years of experience building websites and web applications.
+I'm a Front End developer with 4-5 years of experience building websites and web applications.
 I specialize in JavaScript and have professional experience working with Angular and TypeScript.
 I'm programming with the SOLID principle.
 Learning new things is one of my characteristics.
